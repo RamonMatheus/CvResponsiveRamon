@@ -1,0 +1,47 @@
+.fondo {
+    background-image: url("../image/programacion.jpg");
+    background-size: auto;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.fondoSub {
+    background: rgb(3, 37, 65);
+}
+
+p {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.icon {
+    font-size: 80px;
+}
+
+.icon.social {
+    font-size: 40px;
+}
+
+.icon:hover {
+    transform: scale(1.5);
+}
+
+#titulos {
+    background: rgb(203, 221, 238);
+}
+
+footer {
+    background: rgb(203, 221, 238);
+    height: 80px;
+    color: rgb(173, 168, 168);
+    padding-left: 15px;
+    margin-top: 50px;
+}
+
+.logoUni {
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+}
